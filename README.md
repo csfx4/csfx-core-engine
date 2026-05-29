@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner.png" alt="csfx:core banner" width="1200" height="600">
+  <img src="banner.png" alt="csfx:core banner" width="1200" height="600">
 </p>
 
 # csfx:core
